@@ -20,7 +20,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
-    FirebaseFirestore db = FirebaseFirestore.getInstance();
+
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
